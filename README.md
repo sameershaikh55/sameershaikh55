@@ -28,3 +28,6 @@
 
 
 Feel free to get in touch. Coffee ☕️ is on me. 😉
+
+
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
