@@ -21,7 +21,7 @@
 <code><img height="20" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042015/css3.png?itok=OlYIVwA0"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://codein.software/img/redux.jpg"></code>
+<code><img height="20" src="https://react-etc.net/files/2018-03/redux-harmful.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://material-ui.com/static/logo.png"></code>
