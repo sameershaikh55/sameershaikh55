@@ -1,7 +1,5 @@
 # Sameer Shaikh 👨‍💻 💻
 
-[![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://portfolio-work5.netlify.app/)](https://portfolio-work5.netlify.app/)
-
 - :heavy_check_mark: Front-End Developer | React Developer
 
 ### 🎲 Passionate Problem Solver.
