@@ -1,10 +1,10 @@
 # Sameer Shaikh 👨‍💻 💻
 
-- :heavy_check_mark: Front-End Developer | React Developer
+- :heavy_check_mark: Full Stack | MERN Stack | React | Javascript | TypeScript | Node | Express | MySQL | MongoDB | AWS | Tech Lead | Tech Enthusiast
 
 ### 🎲 Passionate Problem Solver.
 
-### 🏃 Working towards childhood dream of being Software Engineer
+### 🏃 Living childhood dream of being Software Engineer
 
 - 📫 How to reach me:  
 
