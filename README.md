@@ -1,6 +1,6 @@
 # Sameer Shaikh 👨‍💻 💻
 
-- Full Stack | MERN Stack | React | Javascript | TypeScript | Node | Express | MySQL | MongoDB | AWS | Tech Lead | Tech Enthusiast
+- :heavy_check_mark: Full Stack | MERN Stack | React | Javascript | TypeScript | Node | Express | MySQL | MongoDB | AWS | Tech Lead | Tech Enthusiast
 
 ### 🎲 Passionate Problem Solver.
 
