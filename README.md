@@ -1,4 +1,4 @@
-# Sameer Shaikh 👨‍💻 💻
+# Muhammad Sameer 👨‍💻 💻
 
 - :heavy_check_mark: Full Stack | MERN Stack | React | Javascript | TypeScript | Node | Express | MySQL | MongoDB | AWS | Tech Lead | Tech Enthusiast
 
